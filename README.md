@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0027-remove-element) |
 | [0541-reverse-string-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0027-remove-element) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Hash Table
 |  |
