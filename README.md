@@ -27,12 +27,14 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0027-remove-element) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0001-two-sum) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
 |  |
