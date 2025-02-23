@@ -38,6 +38,7 @@
 | [0027-remove-element](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [1391-counting-elements](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1391-counting-elements) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## String Matching
 |  |
