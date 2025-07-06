@@ -50,6 +50,7 @@
 | [0283-move-zeroes](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0414-third-maximum-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1391-counting-elements](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1391-counting-elements) |
@@ -107,6 +108,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
