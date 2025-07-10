@@ -33,6 +33,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -70,6 +71,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1391-counting-elements](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1391-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
@@ -115,6 +118,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
