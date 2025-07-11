@@ -16,6 +16,7 @@
 | [0541-reverse-string-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1168-duplicate-zeros) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -31,6 +32,7 @@
 | [0541-reverse-string-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -123,4 +125,12 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
