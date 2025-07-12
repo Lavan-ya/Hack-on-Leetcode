@@ -36,6 +36,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
