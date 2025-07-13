@@ -43,6 +43,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 ## Greedy
 |  |
 | ------- |
