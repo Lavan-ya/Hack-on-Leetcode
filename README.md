@@ -68,6 +68,7 @@
 | [1391-counting-elements](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1391-counting-elements) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2634-minimum-common-value) |
 ## Hash Table
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2358-number-of-ways-to-split-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Stack
 |  |
 | ------- |
