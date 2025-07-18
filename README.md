@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -62,6 +63,7 @@
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -81,6 +83,7 @@
 | [0001-two-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1391-counting-elements](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1391-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -94,6 +97,7 @@
 | [0088-merge-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -123,6 +127,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2634-minimum-common-value](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2634-minimum-common-value) |
 ## Queue
