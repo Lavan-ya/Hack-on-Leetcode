@@ -62,6 +62,7 @@
 | [0027-remove-element](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0283-move-zeroes) |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0874-backspace-string-compare) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
