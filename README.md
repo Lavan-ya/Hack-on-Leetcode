@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
+| [2383-add-two-integers](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
