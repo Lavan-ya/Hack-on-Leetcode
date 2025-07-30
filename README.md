@@ -83,6 +83,7 @@
 | [1391-counting-elements](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1391-counting-elements) |
 | [1833-find-the-highest-altitude](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2211-k-radius-subarray-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -160,6 +161,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2211-k-radius-subarray-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
