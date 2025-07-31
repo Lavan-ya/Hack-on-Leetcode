@@ -80,6 +80,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1168-duplicate-zeros) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-counting-elements](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1391-counting-elements) |
 | [1833-find-the-highest-altitude](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -99,6 +100,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-counting-elements](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1391-counting-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -117,6 +119,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## String Matching
 |  |
@@ -132,6 +135,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
