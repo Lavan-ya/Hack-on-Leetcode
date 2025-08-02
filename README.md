@@ -53,6 +53,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2634-minimum-common-value) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Sorting
 |  |
 | ------- |
