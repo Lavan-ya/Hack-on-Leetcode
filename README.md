@@ -15,6 +15,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0360-sort-transformed-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0360-sort-transformed-array) |
 | [0541-reverse-string-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -75,6 +76,7 @@
 | [0283-move-zeroes](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0360-sort-transformed-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0360-sort-transformed-array) |
 | [0414-third-maximum-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -121,6 +123,7 @@
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0360-sort-transformed-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0360-sort-transformed-array) |
 | [0414-third-maximum-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -148,6 +151,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
+| [0360-sort-transformed-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0360-sort-transformed-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2383-add-two-integers](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2383-add-two-integers) |
 ## Binary Search
