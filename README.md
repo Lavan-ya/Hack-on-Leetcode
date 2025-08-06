@@ -150,6 +150,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0360-sort-transformed-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0360-sort-transformed-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
