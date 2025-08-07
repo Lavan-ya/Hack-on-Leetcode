@@ -94,6 +94,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2634-minimum-common-value) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2634-minimum-common-value) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Sorting
 |  |
@@ -128,6 +130,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String Matching
 |  |
 | ------- |
