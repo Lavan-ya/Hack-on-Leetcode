@@ -31,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0125-valid-palindrome) |
 | [0246-strobogrammatic-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0246-strobogrammatic-number) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0053-maximum-subarray) |
@@ -217,4 +219,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0496-next-greater-element-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
