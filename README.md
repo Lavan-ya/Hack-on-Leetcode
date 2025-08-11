@@ -26,6 +26,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2551-apply-operations-to-an-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2634-minimum-common-value) |
 ## String
@@ -95,6 +96,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2551-apply-operations-to-an-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2634-minimum-common-value) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0874-backspace-string-compare) |
+| [2551-apply-operations-to-an-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
