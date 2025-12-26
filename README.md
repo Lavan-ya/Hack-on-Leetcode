@@ -92,6 +92,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-counting-elements](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1391-counting-elements) |
 | [1833-find-the-highest-altitude](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2211-k-radius-subarray-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -207,6 +208,7 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0874-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
