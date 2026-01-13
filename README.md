@@ -85,6 +85,7 @@
 | [0496-next-greater-element-i](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1168-duplicate-zeros) |
@@ -172,6 +173,7 @@
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2634-minimum-common-value](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2634-minimum-common-value) |
 ## Queue
