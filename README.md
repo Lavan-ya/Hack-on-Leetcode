@@ -163,6 +163,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0360-sort-transformed-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0360-sort-transformed-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
