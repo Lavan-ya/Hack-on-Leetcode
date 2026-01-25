@@ -97,6 +97,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-counting-elements](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1391-counting-elements) |
+| [1539-kth-missing-positive-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1833-find-the-highest-altitude](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -191,6 +192,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2634-minimum-common-value](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2634-minimum-common-value) |
 ## Queue
 |  |
