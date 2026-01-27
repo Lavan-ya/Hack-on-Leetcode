@@ -10,6 +10,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0246-strobogrammatic-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0246-strobogrammatic-number) |
 | [0283-move-zeroes](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -76,6 +77,7 @@
 | [0088-merge-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0283-move-zeroes) |
@@ -180,6 +182,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0278-first-bad-version) |
