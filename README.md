@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -70,6 +71,7 @@
 | [0001-two-sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
