@@ -181,6 +181,7 @@
 | [0268-missing-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0268-missing-number) |
 | [0360-sort-transformed-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0360-sort-transformed-array) |
 | [0367-valid-perfect-square](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0441-arranging-coins) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2383-add-two-integers](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2383-add-two-integers) |
 ## Binary Search
@@ -197,6 +198,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0713-subarray-product-less-than-k) |
