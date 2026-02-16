@@ -19,6 +19,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0360-sort-transformed-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0360-sort-transformed-array) |
+| [0455-assign-cookies](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
@@ -89,6 +91,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0360-sort-transformed-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0360-sort-transformed-array) |
 | [0414-third-maximum-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -150,6 +153,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0360-sort-transformed-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0360-sort-transformed-array) |
 | [0414-third-maximum-number](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2561-number-of-distinct-averages](https://github.com/Lavan-ya/Hack-on-Leetcode/tree/master/2561-number-of-distinct-averages) |
